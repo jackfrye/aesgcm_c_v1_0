@@ -1,0 +1,6 @@
+Implementation of AES Galois Counter Mode for Vivado HLS
+
+Dependencies:
+    - GCC/G++ 4.8
+    - Build with Vivado_HLS 2017.3
+    - git
